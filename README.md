@@ -1,1 +1,1 @@
-# Credit-Card-Holder-Classification
+A machine learning project for credit card approval prediction that analyzes customer lifestyle, financial behavior, and application attributes to determine whether a credit card should be approved or not approved. The project covers data preprocessing, exploratory analysis, feature engineering, model development, and evaluation to build an effective classification solution for banking and financial decision support.
